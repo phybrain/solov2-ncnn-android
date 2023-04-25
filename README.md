@@ -1,8 +1,9 @@
 # ncnn-android-solov2
 
 1.压缩solov2 使用实例分割检测移动端文档,并切透视变换矫正, fps 10 左右，模型3M <br>
-2.使用lcnet判断文档质量清晰的分数，如果清晰再矫正 <br>
-vx:deeplearning-quant
+2.使用lcnet判断文档质量清晰的分数，如果清晰再矫正，联合推理比较慢 <br>
+demo较简陋 vx:deeplearning-quant<br>
+
 This is a sample ncnn android project, it depends on ncnn library and opencv
 
 https://github.com/Tencent/ncnn
